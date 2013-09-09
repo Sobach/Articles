@@ -38,7 +38,7 @@ concave mark, a supine round bracket, which I would now like to trace in reply t
 
 Вот такое разнообразие (может кто-то сможет обогатить свой смайло-набор):
 
-![Smiles cloud](https://www.dropbox.com/s/ggk7rotfemz527d/smile_cloud.png)
+![Smiles cloud](https://dl.dropboxusercontent.com/u/81437006/img_github/smile_cloud.png)
 
 ## Далее немного выводов по результатам
 
@@ -48,4 +48,4 @@ concave mark, a supine round bracket, which I would now like to trace in reply t
 либо о персональном обращении, ответе (reply), либо ретвите (retweet). Среди сообщений без смайлов упоминания 
 пользователей встречаются лишь в 41% случаев.
 
-![Smiles-mentions correlation](https://www.dropbox.com/s/gij9jbep435ct31/smiles_mentions.png)
+![Smiles-mentions correlation](https://dl.dropboxusercontent.com/u/81437006/img_github/smiles_mentions.png)
