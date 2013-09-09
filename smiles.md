@@ -45,7 +45,7 @@ concave mark, a supine round bracket, which I would now like to trace in reply t
 
 ![Smiles cloud](https://dl.dropboxusercontent.com/u/81437006/img_github/smile_cloud.png)
 
-## Теперь подбробнее про корреляции-результаты-выводы
+## Корреляции-результаты-выводы
 
 Смайлы -- это перенесенные на экран эмоции, а эмоции -- это прежде всего межличностное общение. 
 Можно предположить, что в face-to-face твитах смайлов должно быть больше. Эта гипотеза подтверждается. 
