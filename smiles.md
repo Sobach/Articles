@@ -17,9 +17,14 @@
 
 Различные варианты использования стандартной типографики для изображения эмоций предлагались и ранее:
 
-* А.Бирсом в 1912 году: "an improvement in punctuation – the snigger point, or note of cachinnation: it is written 
-thus \\\_\_\_/! and presents a smiling mouth" ([Wikipedia](http://en.wikipedia.org/wiki/Emoticon#cite_note-5))
-* В.Набоковым в 1969 году: "I often think there should exist a special typographical sign for a smile -- some sort of 
+* А.Бирсом в 1912 году:
+
+> "an improvement in punctuation – the snigger point, or note of cachinnation: it is written 
+thus \\\_\_\_/! and presents a smiling mouth" ([Wikipedia](http://en.wikipedia.org/wiki/Emoticon#cite_note-5));
+
+* В.Набоковым в 1969 году:
+
+> "I often think there should exist a special typographical sign for a smile -- some sort of 
 concave mark, a supine round bracket, which I would now like to trace in reply to your question" 
 ([The New York Times](http://lib.ru/NABOKOW/Inter11.txt_with-big-pictures.html)).
 
@@ -36,11 +41,11 @@ concave mark, a supine round bracket, which I would now like to trace in reply t
 Всего получилось около 1 млн твитов (999&nbsp;620). Из них 20,7% содержали что-то похожее на смайлы 
 (распознавание смайлов было сделано с помощью регулярных выражений).
 
-Вот такое разнообразие (может кто-то сможет обогатить свой смайло-набор):
+В процессе сбора встретилось много всего, в том числе, и странного (может кто-то сможет обогатить свой смайло-набор):
 
 ![Smiles cloud](https://dl.dropboxusercontent.com/u/81437006/img_github/smile_cloud.png)
 
-## Далее немного выводов по результатам
+## Теперь подбробнее про корреляции-результаты-выводы
 
 Смайлы -- это перенесенные на экран эмоции, а эмоции -- это прежде всего межличностное общение. 
 Можно предположить, что в face-to-face твитах смайлов должно быть больше. Эта гипотеза подтверждается. 
