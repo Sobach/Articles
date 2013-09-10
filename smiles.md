@@ -85,7 +85,7 @@ concave mark, a supine round bracket, which I would now like to trace in reply t
 
 ![Positive days in august](https://dl.dropboxusercontent.com/u/81437006/img_github/smile_positive_calendar.png)
 
-![Negative days in august](https://dl.dropboxusercontent.com/u/81437006/img_github/smile_positive_calendar.png)
+![Negative days in august](https://dl.dropboxusercontent.com/u/81437006/img_github/smile_negative_calendar.png)
 
 
 
