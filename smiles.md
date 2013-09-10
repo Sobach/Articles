@@ -79,6 +79,14 @@ concave mark, a supine round bracket, which I would now like to trace in reply t
 свой _действительно_ негативный текст "смайлом"? Или просто соцсети становятся территорией позитива? Я склоняюсь к
 первой гипотезе.
 
+![Smiles by hour](https://dl.dropboxusercontent.com/u/81437006/img_github/smile_hour.png)
+
+![Smiles by weekday](https://dl.dropboxusercontent.com/u/81437006/img_github/smile_weekday.png)
+
+![Positive days in august](https://dl.dropboxusercontent.com/u/81437006/img_github/smile_positive_calendar.png)
+
+![Negative days in august](https://dl.dropboxusercontent.com/u/81437006/img_github/smile_positive_calendar.png)
+
 
 
     
